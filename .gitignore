@@ -58,6 +58,7 @@ logs/tensorboard/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+!notebooks/NumtaDB_Colab_Training.ipynb
 
 # OS
 .DS_Store
