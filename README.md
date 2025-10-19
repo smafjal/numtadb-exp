@@ -23,7 +23,7 @@ make train             # Start training
 ---
 
 ### 🔗 **Live Demo:** https://smafjal.github.io/NumtaDB/
-### 🔗 **Kitchen Room:** https://github.com/smafjal/numtadb-exp
+### 🔗 **Demo Repo:** https://github.com/smafjal/NumtaDB
 
 
 ## Make Commands
