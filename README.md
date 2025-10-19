@@ -132,6 +132,9 @@ numtadb-exp/
 │   ├── train.py         # Training logic
 │   ├── evaluate.py      # Evaluation logic
 │   └── inference.py     # Inference logic
+├── notebooks/           # Jupyter notebooks
+│   ├── NumtaDB_Colab_Training.ipynb  # Google Colab training
+│   └── prepare_for_colab.sh          # Colab setup script
 ├── data/raw/            # Dataset directory
 ├── checkpoints/         # Saved model checkpoints
 ├── models/              # Converted ONNX models
@@ -200,7 +203,13 @@ chmod 600 ~/.kaggle/kaggle.json
 
 ## Training on Google Colab
 
-See [COLAB_QUICK_START.md](COLAB_QUICK_START.md) for detailed Colab instructions.
+```bash
+./notebooks/prepare_for_colab.sh
+```
+
+Then upload `notebooks/NumtaDB_Colab_Training.ipynb` to [Google Colab](https://colab.research.google.com/).
+
+See [COLAB_GUIDE.md](COLAB_GUIDE.md) for complete instructions.
 
 ---
 
