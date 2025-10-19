@@ -19,8 +19,12 @@ make download-data     # Download dataset
 make train             # Start training
 ```
 
-> **🎨 Web Demo**: The `github-io-NumtaDB/` folder contains a standalone web app for browser-based digit recognition. It's designed to be hosted separately Live Demo: https://smafjal.github.io/NumtaDB/
+> **🎨 Web Demo**: The `github-io-NumtaDB/` folder contains a standalone web app for browser-based digit recognition. It's designed to be hosted separately.
 ---
+
+### 🔗 **Live Demo:** https://smafjal.github.io/NumtaDB/
+### 🔗 **Kitchen Room:** https://github.com/smafjal/numtadb-exp
+
 
 ## Make Commands
 
